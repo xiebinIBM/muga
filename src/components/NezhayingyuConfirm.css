@@ -1,0 +1,231 @@
+/* NezhayingyuConfirm.css */
+.exam-container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+.exam-header {
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+.exam-header h1 {
+  color: #4CAF50;
+  margin-bottom: 5px;
+  font-size: 24px;
+}
+
+.exam-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: #f0f8ff;
+  border-radius: 5px;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+}
+
+.info-item label {
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 14px;
+  white-space: nowrap; /* 防止换行 */
+}
+
+.exam-content {
+  padding: 20px;
+}
+
+.confirm-info {
+  background-color: #f0f8ff;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.confirm-info h2 {
+  margin-top: 0;
+  color: #4682b4;
+  font-size: 18px;
+}
+
+.confirm-info ul {
+  padding-left: 20px;
+}
+
+.confirm-info li {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.exam-questions {
+  margin-top: 20px;
+}
+
+.exam-questions h2 {
+  color: #8b0000;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.question-item {
+  margin-bottom: 25px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.question-item h3 {
+  color: #8b0000;
+  margin-top: 0;
+  font-size: 16px;
+}
+
+.answer-container {
+  display: flex;
+  align-items: baseline;
+}
+
+.answer-label {
+  font-weight: bold;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.answer-content {
+  color: #666;
+  font-size: 14px;
+}
+
+.exam-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 2px solid #4CAF50;
+}
+
+.practice-btn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.practice-btn:hover {
+  background-color: #45a049;
+}
+
+.show-answers-checkbox {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.show-answers-checkbox input {
+  margin-right: 10px;
+}
+
+/* 动画效果 */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in-animation {
+  animation: fadeIn 1s ease-in-out;
+}
+
+exam-info-line {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  white-space: nowrap; /* 防止内容换行 */
+}
+
+/* 打印设置 */
+@media print {
+  .exam-footer,
+  .show-answers-checkbox,
+  .confirm-info {
+    display: none !important;
+  }
+
+  exam-info-line {
+    display: flex !important;
+    justify-content: space-between !important;
+    border-bottom: none !important;
+    margin-bottom: 20px !important;
+  }
+
+  .question-item {
+    box-shadow: none !important;
+    margin-bottom: 30px !important; /* 增加题目的间距 */
+    page-break-inside: avoid; /* 避免题目被分到不同的页 */
+  }
+
+  .mianfei-question {
+    margin-bottom: 60px !important; /* 为模拟面试题增加更多的底部空白 */
+  }
+
+  .exam-container {
+    box-shadow: none !important;
+    border: none !important;
+    padding: 10px !important;
+  }
+
+  @page {
+    margin: 20mm;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* 隐藏浏览器默认页眉和页脚 */
+  header, footer {
+    display: none !important;
+  }
+
+  .exam-header {
+    display: block !important;
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* 防止姓名、SN、练习日期换行 */
+  exam-info-line {
+    white-space: nowrap !important;
+  }
+
+  /* 为模拟面试题添加空行 */
+  .mianfei-question::after {
+    content: "";
+    display: block;
+    height: 60px; /* 空行高度 */
+  }
+}

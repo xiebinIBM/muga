@@ -1,0 +1,989 @@
+[
+    {
+      "No.": 1,
+      "ppt No.": 1,
+      "填空题目": "I ______________ Java and ______________ frameworks like Spring.",
+      "填空题目中文翻译": "我精通 Java语言，并且有使用 Spring 等框架的经验。",
+      "填空题目答案": ["am proficient in", "have experience with"]
+    },
+    {
+      "No.": 2,
+      "ppt No.": 1,
+      "填空题目": "She ______________ Python and ______________ machine learning libraries.",
+      "填空题目中文翻译": "她精通Python，并有使用机器学习库的经验。",
+      "填空题目答案": ["is proficient in", "has experience with"]
+    },
+    {
+      "No.": 3,
+      "ppt No.": 1,
+      "填空题目": "They ______________ cloud platforms like AWS.",
+      "填空题目中文翻译": "他们有使用像AWS这样的云平台的经验。",
+      "填空题目答案": "have experience with"
+    },
+    {
+      "No.": 4,
+      "ppt No.": 2,
+      "填空题目": "I’ve ______________ JavaScript and frontend frameworks like React and Angular.",
+      "填空题目中文翻译": "我在 JavaScript 以及 React 和 Angular 等前端框架方面有丰富的经验。",
+      "填空题目答案": "worked extensively with"
+    },
+    {
+      "No.": 5,
+      "ppt No.": 2,
+      "填空题目": "He has ______________ database optimization techniques.",
+      "填空题目中文翻译": "他在数据库优化技术方面有丰富经验。",
+      "填空题目答案": "worked extensively with"
+    },
+    {
+      "No.": 6,
+      "ppt No.": 3,
+      "填空题目": "I ______________ backend development using Node.js and Express.",
+      "填空题目中文翻译": "我有使用 Node.js 和 Express 进行后端开发的经验。",
+      "填空题目答案": "have experience with"
+    },
+    {
+      "No.": 7,
+      "ppt No.": 3,
+      "填空题目": "They ______________ mobile app development using Flutter.",
+      "填空题目中文翻译": "他们有使用Flutter进行移动应用开发的经验。",
+      "填空题目答案": "have experience with"
+    },
+    {
+      "No.": 8,
+      "ppt No.": 4,
+      "填空题目": "I’m ______________ database technologies like MySQL, PostgreSQL, and MongoDB.",
+      "填空题目中文翻译": "我熟悉 MySQL、PostgreSQL 和 MongoDB 等数据库技术。",
+      "填空题目答案": "familiar with"
+    },
+    {
+      "No.": 9,
+      "ppt No.": 4,
+      "填空题目": "She is ______________ Agile methodologies.",
+      "填空题目中文翻译": "她熟悉敏捷方法论。",
+      "填空题目答案": "familiar with"
+    },
+    {
+      "No.": 10,
+      "ppt No.": 5,
+      "填空题目": "I’ve ______________ cloud platforms like AWS, Azure, and Google Cloud ______________ deploying applications.",
+      "填空题目中文翻译": "我曾使用过 AWS、Azure 和 谷歌云等云平台来部署应用程序。",
+      "填空题目答案": ["used", "for"]
+    },
+    {
+      "No.": 11,
+      "ppt No.": 5,
+      "填空题目": "They ______________ Jenkins ______________ setting up CI/CD pipelines.",
+      "填空题目中文翻译": "他们使用Jenkins设置CI/CD流水线。",
+      "填空题目答案": ["used", "for"]
+    },
+    {
+      "No.": 12,
+      "ppt No.": 6,
+      "填空题目": "I ______________ containerization tools like Docker and orchestration with Kubernetes.",
+      "填空题目中文翻译": "我有使用 Docker 等容器化工具和 Kubernetes 进行编排的实际操作经验。",
+      "填空题目答案": "have hands-on experience with"
+    },
+    {
+      "No.": 13,
+      "ppt No.": 6,
+      "填空题目": "He has ______________ DevOps tools.",
+      "填空题目中文翻译": "他在DevOps工具方面有实际操作经验。",
+      "填空题目答案": "hands-on experience with"
+    },
+    {
+      "No.": 14,
+      "ppt No.": 7,
+      "填空题目": "I’ve ______________ serverless architectures using AWS Lambda or Google Cloud Functions.",
+      "填空题目中文翻译": "我曾使用过 AWS Lambda 或谷歌云函数等无服务器架构。",
+      "填空题目答案": "worked with"
+    },
+    {
+      "No.": 15,
+      "ppt No.": 7,
+      "填空题目": "She has ______________ microservices architectures.",
+      "填空题目中文翻译": "她使用过微服务架构。",
+      "填空题目答案": "worked with"
+    },
+    {
+      "No.": 16,
+      "ppt No.": 8,
+      "填空题目": "I’m ______________ working with both relational and NoSQL databases depending on project requirements.",
+      "填空题目中文翻译": "根据项目需求，我能自如地使用关系型数据库和 NoSQL 数据库。",
+      "填空题目答案": "comfortable with"
+    },
+    {
+      "No.": 17,
+      "ppt No.": 8,
+      "填空题目": "He is ______________ working in fast-paced environments.",
+      "填空题目中文翻译": "他在快节奏环境中工作感到自如。",
+      "填空题目答案": "comfortable with"
+    },
+    {
+      "No.": 18,
+      "ppt No.": 9,
+      "填空题目": "I’ve ______________ Python ______________ data processing and machine learning projects.",
+      "填空题目中文翻译": "我曾用 Python 进行数据处理和机器学习项目。",
+      "填空题目答案": ["used", "for"]
+    },
+    {
+      "No.": 19,
+      "ppt No.": 9,
+      "填空题目": "They ______________ Python ______________ building predictive models.",
+      "填空题目中文翻译": "他们使用Python构建预测模型。",
+      "填空题目答案": ["used", "for"]
+    },
+    {
+      "No.": 20,
+      "ppt No.": 10,
+      "填空题目": "I ______________ mobile app development using Flutter or React Native.",
+      "填空题目中文翻译": "我有使用 Flutter 或 React Native 进行移动应用开发的经验。",
+      "填空题目答案": "have experience with"
+    },
+    {
+      "No.": 21,
+      "ppt No.": 10,
+      "填空题目": "She has ______________ cross-platform development.",
+      "填空题目中文翻译": "她在跨平台开发方面有经验。",
+      "填空题目答案": "experience with"
+    },
+    {
+      "No.": 22,
+      "ppt No.": 11,
+      "填空题目": "I ______________ Git ______________ version control and ______________ branching strategies like Git Flow.",
+      "填空题目中文翻译": "我使用 Git 进行版本控制，并遵循 Git Flow 等分支策略。",
+      "填空题目答案": ["use", "for", "follow"]
+    },
+    {
+      "No.": 23,
+      "ppt No.": 11,
+      "填空题目": "He ______________ Jira ______________ project management.",
+      "填空题目中文翻译": "他使用Jira进行项目管理。",
+      "填空题目答案": ["uses", "for"]
+    },
+    {
+      "No.": 24,
+      "ppt No.": 11,
+      "填空题目": "They ______________ Agile methodologies in their development process.",
+      "填空题目中文翻译": "他们在开发过程中遵循敏捷方法论。",
+      "填空题目答案": "follow"
+    },
+    {
+      "No.": 25,
+      "ppt No.": 12,
+      "填空题目": "I’m ______________ CI/CD pipelines using tools like Jenkins, GitHub Actions, or GitLab CI.",
+      "填空题目中文翻译": "我熟悉使用 Jenkins、GitHub Actions 或 GitLab CI 等工具构建 CI/CD流水线。",
+      "填空题目答案": "familiar with"
+    },
+    {
+      "No.": 26,
+      "ppt No.": 12,
+      "填空题目": "She is ______________ Docker ______________ containerization.",
+      "填空题目中文翻译": "她熟悉使用Docker进行容器化。",
+      "填空题目答案": ["familiar with", "for"]
+    },
+    {
+      "No.": 27,
+      "ppt No.": 13,
+      "填空题目": "I ______________ unit tests and integration tests using frameworks like JUnit, pytest, or Mocha.",
+      "填空题目中文翻译": "我使用 JUnit、pytest 或 Mocha 等框架编写单元测试和集成测试。",
+      "填空题目答案": "write"
+    },
+    {
+      "No.": 28,
+      "ppt No.": 13,
+      "填空题目": "They ______________ documentation for every new feature.",
+      "填空题目中文翻译": "他们为每个新功能编写文档。",
+      "填空题目答案": "write"
+    },
+    {
+      "No.": 29,
+      "ppt No.": 14,
+      "填空题目": "I ______________ Agile methodologies and ______________ daily stand-ups and sprint planning.",
+      "填空题目中文翻译": "我遵循敏捷方法论，并参与每日站会和迭代计划会。",
+      "填空题目答案": ["follow", "participate in"]
+    },
+    {
+      "No.": 30,
+      "ppt No.": 14,
+      "填空题目": "He ______________ code reviews regularly.",
+      "填空题目中文翻译": "他定期参与代码审查。",
+      "填空题目答案": "participates in"
+    },
+    {
+      "No.": 31,
+      "ppt No.": 15,
+      "填空题目": "I ______________ IDEs like IntelliJ IDEA, Visual Studio Code, or Eclipse ______________ development.",
+      "填空题目中文翻译": "我使用 IntelliJ IDEA、Visual Studio Code 或 Eclipse 等集成开发环境 进行开发。",
+      "填空题目答案": ["use", "for"]
+    },
+    {
+      "No.": 32,
+      "ppt No.": 15,
+      "填空题目": "She ______________ Postman ______________ testing APIs.",
+      "填空题目中文翻译": "她使用Postman测试API。",
+      "填空题目答案": ["uses", "for"]
+    },
+    {
+      "No.": 33,
+      "ppt No.": 16,
+      "填空题目": "I’ve ______________ RESTful APIs and ______________ designing and consuming them.",
+      "填空题目中文翻译": "我有使用 RESTful API的经验，并会设计和调用这些API。",
+      "填空题目答案": ["worked with", "have experience"]
+    },
+    {
+      "No.": 34,
+      "ppt No.": 16,
+      "填空题目": "He has ______________ GraphQL ______________ more flexible data queries.",
+      "填空题目中文翻译": "他使用GraphQL进行更灵活的数据查询。",
+      "填空题目答案": ["worked with", "for"]
+    },
+    {
+      "No.": 35,
+      "ppt No.": 17,
+      "填空题目": "I’ve ______________ GraphQL ______________ build more flexible and efficient APIs.",
+      "填空题目中文翻译": "我曾使用 GraphQL 构建更灵活高效的 API。",
+      "填空题目答案": ["used", "to"]
+    },
+    {
+      "No.": 36,
+      "ppt No.": 17,
+      "填空题目": "They ______________ Kafka ______________ real-time data streaming.",
+      "填空题目中文翻译": "他们使用Kafka进行实时数据流处理。",
+      "填空题目答案": ["used", "for"]
+    },
+    {
+      "No.": 37,
+      "ppt No.": 18,
+      "填空题目": "I’m ______________ in debugging applications using tools like Chrome DevTools or Postman.",
+      "填空题目中文翻译": "我擅长使用 Chrome 开发工具或 Postman 等工具调试应用程序。",
+      "填空题目答案": "experienced"
+    },
+    {
+      "No.": 38,
+      "ppt No.": 18,
+      "填空题目": "She is ______________ in performance optimization.",
+      "填空题目中文翻译": "她在性能优化方面有经验。",
+      "填空题目答案": "experienced"
+    },
+    {
+      "No.": 39,
+      "ppt No.": 19,
+      "填空题目": "I ______________ best practices for code quality, such as writing clean, maintainable, and documented code.",
+      "填空题目中文翻译": "我遵循代码质量的最佳实践，编写的代码简洁、易维护且有文档注释。",
+      "填空题目答案": "follow"
+    },
+    {
+      "No.": 40,
+      "ppt No.": 19,
+      "填空题目": "They ______________ security best practices to protect user data.",
+      "填空题目中文翻译": "他们遵循安全最佳实践来保护用户数据。",
+      "填空题目答案": "follow"
+    },
+    {
+      "No.": 41,
+      "ppt No.": 20,
+      "填空题目": "I ______________ logging and monitoring tools like ELK Stack or Prometheus ______________ track application performance.",
+      "填空题目中文翻译": "我使用 ELK Stack 或 Prometheus 等日志和监控工具来跟踪应用程序的性能。",
+      "填空题目答案": ["use", "to"]
+    },
+    {
+      "No.": 42,
+      "ppt No.": 20,
+      "填空题目": "He ______________ Grafana ______________ visualizing system metrics.",
+      "填空题目中文翻译": "他使用Grafana可视化系统指标。",
+      "填空题目答案": ["uses", "for"]
+    },
+    {
+      "No.": 43,
+      "ppt No.": 21,
+      "填空题目": "I ______________ a mobile app that ______________ user engagement by 30%.",
+      "填空题目中文翻译": "我开发过一款移动应用，将用户参与度提高了 30%。",
+      "填空题目答案": ["developed", "improved"]
+    },
+    {
+      "No.": 44,
+      "ppt No.": 21,
+      "填空题目": "They ______________ a feature that ______________ sales by 20%.",
+      "填空题目中文翻译": "他们开发了一个功能，将销售额提高了20%。",
+      "填空题目答案": ["developed", "increased"]
+    },
+    {
+      "No.": 45,
+      "ppt No.": 21,
+      "填空题目": "She ______________ the app's performance by ______________ the code.",
+      "填空题目中文翻译": "她通过优化代码提升了应用的性能。",
+      "填空题目答案": ["improved", "optimizing"]
+    },
+    {
+      "No.": 46,
+      "ppt No.": 22,
+      "填空题目": "I ______________ a scalable backend system that ______________ 10,000 requests per second.",
+      "填空题目中文翻译": "我构建过一个可扩展的后端系统，每秒可处理 10,000 个请求。",
+      "填空题目答案": ["built", "handled"]
+    },
+    {
+      "No.": 47,
+      "ppt No.": 22,
+      "填空题目": "He ______________ a dashboard that ______________ real-time data.",
+      "填空题目中文翻译": "他构建了一个显示实时数据的仪表盘。",
+      "填空题目答案": ["built", "displayed"]
+    },
+    {
+      "No.": 48,
+      "ppt No.": 22,
+      "填空题目": "The system ______________ high traffic during peak hours.",
+      "填空题目中文翻译": "系统在高峰时段处理高流量。",
+      "填空题目答案": "handles"
+    },
+    {
+      "No.": 49,
+      "ppt No.": 23,
+      "填空题目": "I ______________ third-party APIs like payment gateways or social media platforms ______________ our application.",
+      "填空题目中文翻译": "我将支付网关或社交媒体平台等第三方 API 集成了到我们的应用程序中。",
+      "填空题目答案": ["integrated", "into"]
+    },
+    {
+      "No.": 50,
+      "ppt No.": 23,
+      "填空题目": "They ______________ Google Maps API ______________ location-based services.",
+      "填空题目中文翻译": "他们集成了Google Maps API用于基于位置的服务。",
+      "填空题目答案": ["integrated", "for"]
+    },
+    {
+      "No.": 51,
+      "ppt No.": 23,
+      "填空题目": "She ______________ a payment gateway ______________ enable online transactions.",
+      "填空题目中文翻译": "她集成支付网关以支持在线交易。",
+      "填空题目答案": ["integrated", "to"]
+    },
+    {
+      "No.": 52,
+      "ppt No.": 24,
+      "填空题目": "I ______________ database queries, ______________ response time by 50%.",
+      "填空题目中文翻译": "我优化了数据库查询，将响应时间缩短了 50%。",
+      "填空题目答案": ["optimized", "reducing"]
+    },
+    {
+      "No.": 53,
+      "ppt No.": 24,
+      "填空题目": "He ______________ the code ______________ improve application performance.",
+      "填空题目中文翻译": "他优化代码以提升应用性能。",
+      "填空题目答案": ["optimized", "to"]
+    },
+    {
+      "No.": 54,
+      "ppt No.": 24,
+      "填空题目": "They ______________ the loading time by ______________ images.",
+      "填空题目中文翻译": "他们通过压缩图像缩短了加载时间。",
+      "填空题目答案": ["reduced", "compressing"]
+    },
+    {
+      "No.": 55,
+      "ppt No.": 25,
+      "填空题目": "I ______________ caching using Redis, which ______________ application performance significantly.",
+      "填空题目中文翻译": "我使用 Redis 实现了缓存，显著提升了应用程序的性能。",
+      "填空题目答案": ["implemented", "improved"]
+    },
+    {
+      "No.": 56,
+      "ppt No.": 25,
+      "填空题目": "She ______________ a caching mechanism ______________ reduce server load.",
+      "填空题目中文翻译": "她实现缓存机制以减少服务器负载。",
+      "填空题目答案": ["implemented", "to"]
+    },
+    {
+      "No.": 57,
+      "ppt No.": 25,
+      "填空题目": "The performance ______________ after ______________ the new algorithm.",
+      "填空题目中文翻译": "实施新算法后，性能得到提升。",
+      "填空题目答案": ["improved", "implementing"]
+    },
+    {
+      "No.": 58,
+      "ppt No.": 26,
+      "填空题目": "I ______________ a legacy system ______________ a modern tech stack, ______________ maintainability and scalability.",
+      "填空题目中文翻译": "我将一个遗留系统迁移到现代技术栈，提高了系统的可维护性和可扩展性。",
+      "填空题目答案": ["migrated", "to", "improving"]
+    },
+    {
+      "No.": 59,
+      "ppt No.": 26,
+      "填空题目": "They ______________ the application ______________ the cloud ______________ better scalability.",
+      "填空题目中文翻译": "他们将应用迁移到云端以提高可扩展性。",
+      "填空题目答案": ["migrated", "to", "for"]
+    },
+    {
+      "No.": 60,
+      "ppt No.": 26,
+      "填空题目": "The new system ______________ the overall efficiency of the process.",
+      "填空题目中文翻译": "新系统提高了流程的整体效率。",
+      "填空题目答案": "improved"
+    },
+    {
+      "No.": 61,
+      "ppt No.": 27,
+      "填空题目": "I ______________ and ______________ a microservices architecture ______________ a high-traffic application.",
+      "填空题目中文翻译": "我为高流量应用程序设计并开发了微服务架构。",
+      "填空题目答案": ["designed", "developed", "for"]
+    },
+    {
+      "No.": 62,
+      "ppt No.": 27,
+      "填空题目": "He ______________ a scalable architecture ______________ the new platform.",
+      "填空题目中文翻译": "他为新平台设计了一个可扩展的架构。",
+      "填空题目答案": ["designed", "for"]
+    },
+    {
+      "No.": 63,
+      "ppt No.": 27,
+      "填空题目": "They ______________ a microservices-based solution ______________ the client.",
+      "填空题目中文翻译": "他们为客户开发了基于微服务的解决方案。",
+      "填空题目答案": ["developed", "for"]
+    },
+    {
+      "No.": 64,
+      "ppt No.": 28,
+      "填空题目": "I ______________ a mobile app that ______________ 100,000 downloads ______________ the first month.",
+      "填空题目中文翻译": "我开发了一款移动应用，首月下载量达到 10 万次。",
+      "填空题目答案": ["created", "achieved", "in"]
+    },
+    {
+      "No.": 65,
+      "ppt No.": 28,
+      "填空题目": "She ______________ a feature that ______________ user retention ______________ 25%.",
+      "填空题目中文翻译": "她创建了一个功能，将用户留存率提高了25%。",
+      "填空题目答案": ["created", "boosted", "by"]
+    },
+    {
+      "No.": 66,
+      "ppt No.": 28,
+      "填空题目": "The app ______________ significant traction ______________ the market.",
+      "填空题目中文翻译": "应用在市场上获得了显著关注。",
+      "填空题目答案": ["achieved", "in"]
+    },
+    {
+      "No.": 67,
+      "ppt No.": 29,
+      "填空题目": "I ______________ on a project that ______________ real-time data processing ______________ Kafka or RabbitMQ.",
+      "填空题目中文翻译": "我参与过使用 Kafka 或 RabbitMQ 进行实时数据处理的项目。",
+      "填空题目答案": ["worked", "involved", "using"]
+    },
+    {
+      "No.": 68,
+      "ppt No.": 29,
+      "填空题目": "He ______________ on a project that ______________ high availability and fault tolerance.",
+      "填空题目中文翻译": "他参与了一个需要高可用性和容错性的项目。",
+      "填空题目答案": ["worked", "required"]
+    },
+    {
+      "No.": 69,
+      "ppt No.": 29,
+      "填空题目": "They ______________ real-time analytics ______________ the platform.",
+      "填空题目中文翻译": "他们为平台实现了实时分析。",
+      "填空题目答案": ["implemented", "for"]
+    },
+    {
+      "No.": 70,
+      "ppt No.": 30,
+      "填空题目": "I ______________ a feature that ______________ users ______________ upload and share files securely.",
+      "填空题目中文翻译": "我开发了一个功能，允许用户安全地上传和共享文件。",
+      "填空题目答案": ["developed", "allowed", "to"]
+    },
+    {
+      "No.": 71,
+      "ppt No.": 30,
+      "填空题目": "She ______________ a feature that ______________ the checkout process.",
+      "填空题目中文翻译": "她开发了一个简化结账流程的功能。",
+      "填空题目答案": ["developed", "simplified"]
+    },
+    {
+      "No.": 72,
+      "ppt No.": 30,
+      "填空题目": "The app ______________ users ______________ customize their profiles.",
+      "填空题目中文翻译": "应用允许用户自定义个人资料。",
+      "填空题目答案": ["allows", "to"]
+    },
+    {
+      "No.": 73,
+      "ppt No.": 31,
+      "填空题目": "I once ______________ a memory leak issue ______________ analyzing heap dumps and ______________ code.",
+      "填空题目中文翻译": "我曾经通过分析堆转储文件并优化代码，解决了一个内存泄漏问题。",
+      "填空题目答案": ["resolved", "by", "optimizing"]
+    },
+    {
+      "No.": 74,
+      "ppt No.": 31,
+      "填空题目": "He ______________ the bug ______________ reviewing the logs.",
+      "填空题目中文翻译": "他通过查看日志修复了漏洞。",
+      "填空题目答案": ["resolved", "by"]
+    },
+    {
+      "No.": 75,
+      "ppt No.": 31,
+      "填空题目": "They ______________ the data ______________ identify the root cause of the problem.",
+      "填空题目中文翻译": "他们分析数据以确定问题的根本原因。",
+      "填空题目答案": ["analyzed", "to"]
+    },
+    {
+      "No.": 76,
+      "ppt No.": 32,
+      "填空题目": "I ______________ a critical bug in production ______________ rolling back the deployment and ______________ a hotfix.",
+      "填空题目中文翻译": "我通过回滚部署并应用热修复程序修复了一个生产环境中的关键漏洞。",
+      "填空题目答案": ["fixed", "by", "applying"]
+    },
+    {
+      "No.": 77,
+      "ppt No.": 32,
+      "填空题目": "They ______________ back the update ______________ stabilize the system.",
+      "填空题目中文翻译": "他们回滚更新以稳定系统。",
+      "填空题目答案": ["rolled", "to"]
+    },
+    {
+      "No.": 78,
+      "ppt No.": 32,
+      "填空题目": "She ______________ a patch ______________ resolve the security vulnerability.",
+      "填空题目中文翻译": "她应用补丁以解决安全漏洞。",
+      "填空题目答案": ["applied", "to"]
+    },
+    {
+      "No.": 79,
+      "ppt No.": 33,
+      "填空题目": "I ______________ application security ______________ implementing OAuth 2.0 ______________ user authentication.",
+      "填空题目中文翻译": "我通过实现 OAuth 2.0 进行用户身份验证，提高了应用程序的安全性。",
+      "填空题目答案": ["improved", "by", "for"]
+    },
+    {
+      "No.": 80,
+      "ppt No.": 33,
+      "填空题目": "They ______________ data security ______________ encrypting sensitive information.",
+      "填空题目中文翻译": "他们通过加密敏感信息提高数据安全。",
+      "填空题目答案": ["improved", "by"]
+    },
+    {
+      "No.": 81,
+      "ppt No.": 33,
+      "填空题目": "He ______________ two-factor authentication ______________ added protection.",
+      "填空题目中文翻译": "他实现双因素认证以增加保护。",
+      "填空题目答案": ["implemented", "for"]
+    },
+    {
+      "No.": 82,
+      "ppt No.": 34,
+      "填空题目": "I ______________ server costs ______________ optimizing resource usage and ______________ auto-scaling.",
+      "填空题目中文翻译": "我通过优化资源使用和实现自动扩展，降低了服务器成本。",
+      "填空题目答案": ["reduced", "by", "implementing"]
+    },
+    {
+        "No.": 83,
+        "ppt No.": 34,
+        "填空题目": "She ______________ operational costs ______________ migrating ______________ a cloud-based solution.",
+        "填空题目中文翻译": "她通过迁移到云解决方案降低了运营成本。",
+        "填空题目答案": ["reduced", "by", "to"]
+    },
+    {
+        "No.": 84,
+        "ppt No.": 34,
+        "填空题目": "They ______________ server usage ______________ handle peak traffic efficiently.",
+        "填空题目中文翻译": "他们优化服务器使用以有效处理高峰流量。",
+        "填空题目答案": ["optimized", "to"]
+    },
+    {
+        "No.": 85,
+        "ppt No.": 35,
+        "填空题目": "I ______________ a concurrency issue ______________ using locking mechanisms and thread-safe data structures.",
+        "填空题目中文翻译": "我使用锁机制和线程安全的数据结构解决了一个并发问题。",
+        "填空题目答案": ["solved", "by"]
+    },
+    {
+        "No.": 86,
+        "ppt No.": 35,
+        "填空题目": "He ______________ the deadlock issue ______________ redesigning the threading model.",
+        "填空题目中文翻译": "他通过重新设计线程模型解决了死锁问题。",
+        "填空题目答案": ["solved", "by"]
+    },
+    {
+        "No.": 87,
+        "ppt No.": 35,
+        "填空题目": "They ______________ thread-safe queues ______________ handle concurrent requests.",
+        "填空题目中文翻译": "他们使用线程安全队列处理并发请求。",
+        "填空题目答案": ["used", "to"]
+    },
+    {
+        "No.": 88,
+        "ppt No.": 36,
+        "填空题目": "I ______________ and ______________ a bottleneck in the database layer, ______________ overall system performance.",
+        "填空题目中文翻译": "我找出并修复了数据库层的瓶颈问题，提高了整体系统性能。",
+        "填空题目答案": ["identified", "fixed", "improving"]
+    },
+    {
+        "No.": 89,
+        "ppt No.": 36,
+        "填空题目": "She ______________ the performance bottleneck ______________ analyzing query execution plans.",
+        "填空题目中文翻译": "她通过分析查询执行计划识别出性能瓶颈。",
+        "填空题目答案": ["identified", "by"]
+    },
+    {
+        "No.": 90,
+        "ppt No.": 36,
+        "填空题目": "They ______________ system performance ______________ optimizing the database schema.",
+        "填空题目中文翻译": "他们通过优化数据库模式提高了系统性能。",
+        "填空题目答案": ["improved", "by"]
+    },
+    {
+        "No.": 91,
+        "ppt No.": 37,
+        "填空题目": "I ______________ a retry mechanism for API calls ______________ handle transient failures.",
+        "填空题目中文翻译": "我为 API 调用实现了重试机制，以处理瞬时故障。",
+        "填空题目答案": ["implemented", "to"]
+    },
+    {
+        "No.": 92,
+        "ppt No.": 37,
+        "填空题目": "He ______________ a fallback mechanism ______________ ensure system reliability.",
+        "填空题目中文翻译": "他实现了回退机制以确保系统可靠性。",
+        "填空题目答案": ["implemented", "to"]
+    },
+    {
+        "No.": 93,
+        "ppt No.": 37,
+        "填空题目": "They ______________ network failures ______________ retrying the connection.",
+        "填空题目中文翻译": "他们通过重试连接处理网络故障。",
+        "填空题目答案": ["handled", "by"]
+    },
+    {
+        "No.": 94,
+        "ppt No.": 38,
+        "填空题目": "I ______________ a cross-browser compatibility issue ______________ testing and adjusting CSS and JavaScript.",
+        "填空题目中文翻译": "我通过测试和调整 CSS 和 JavaScript，解决了跨浏览器兼容性问题。",
+        "填空题目答案": ["resolved", "by"]
+    },
+    {
+        "No.": 95,
+        "ppt No.": 38,
+        "填空题目": "She ______________ the layout issue ______________ updating the CSS styles.",
+        "填空题目中文翻译": "她通过更新CSS样式解决了布局问题。",
+        "填空题目答案": ["resolved", "by"]
+    },
+    {
+        "No.": 96,
+        "ppt No.": 38,
+        "填空题目": "They ______________ the application on multiple browsers ______________ ensure compatibility.",
+        "填空题目中文翻译": "他们在多个浏览器上测试应用以确保兼容性。",
+        "填空题目答案": ["tested", "to"]
+    },
+    {
+        "No.": 97,
+        "ppt No.": 39,
+        "填空题目": "I ______________ the user experience ______________ reducing page load time through code optimization and caching.",
+        "填空题目中文翻译": "我通过代码优化和缓存机制，缩短了页面加载时间，改善了用户体验。",
+        "填空题目答案": ["improved", "by"]
+    },
+    {
+        "No.": 98,
+        "ppt No.": 39,
+        "填空题目": "He ______________ the app's responsiveness ______________ optimizing the backend.",
+        "填空题目中文翻译": "他通过优化后端改善了应用的响应性。",
+        "填空题目答案": ["improved", "by"]
+    },
+    {
+        "No.": 99,
+        "ppt No.": 39,
+        "填空题目": "They ______________ the page load time ______________ compressing assets.",
+        "填空题目中文翻译": "他们通过压缩资源减少了页面加载时间。",
+        "填空题目答案": ["reduced", "by"]
+    },
+    {
+        "No.": 100,
+        "ppt No.": 40,
+        "填空题目": "I ______________ a high-traffic spike ______________ scaling the application horizontally using load balancers.",
+        "填空题目中文翻译": "我通过使用负载均衡器进行水平扩展，应对了高流量峰值。",
+        "填空题目答案": ["handled", "by"]
+    },
+    {
+        "No.": 101,
+        "ppt No.": 40,
+        "填空题目": "She ______________ the sudden traffic surge ______________ adding more servers.",
+        "填空题目中文翻译": "她通过增加服务器处理了突发的流量激增。",
+        "填空题目答案": ["handled", "by"]
+    },
+    {
+        "No.": 102,
+        "ppt No.": 40,
+        "填空题目": "They ______________ the application ______________ support millions of users.",
+        "填空题目中文翻译": "他们扩展应用以支持数百万用户。",
+        "填空题目答案": ["scaled", "to"]
+    },
+    {
+        "No.": 103,
+        "ppt No.": 41,
+        "填空题目": "I ______________ with designers and QA testers ______________ deliver a high-quality product.",
+        "填空题目中文翻译": "我与设计师和质量保证测试人员合作，交付了一个高质量的产品。",
+        "填空题目答案": ["collaborated", "to"]
+    },
+    {
+        "No.": 104,
+        "ppt No.": 41,
+        "填空题目": "She ______________ with the marketing team ______________ launch the new feature.",
+        "填空题目中文翻译": "她与营销团队合作推出新功能。",
+        "填空题目答案": ["collaborated", "to"]
+    },
+    {
+        "No.": 105,
+        "ppt No.": 41,
+        "填空题目": "They delivered the project ahead of schedule.",
+        "填空题目中文翻译": "他们提前交付了项目。",
+        "填空题目答案": ""
+    },
+    {
+        "No.": 106,
+        "ppt No.": 42,
+        "填空题目": "I ______________ closely with product managers ______________ understand user requirements and translate them into technical solutions.",
+        "填空题目中文翻译": "我与产品经理密切合作，理解用户需求并将其转化为技术解决方案。",
+        "填空题目答案": ["worked", "to"]
+    },
+    {
+        "No.": 107,
+        "ppt No.": 42,
+        "填空题目": "He ______________ closely with the client ______________ refine the project scope.",
+        "填空题目中文翻译": "他与客户密切合作完善项目范围。",
+        "填空题目答案": ["worked", "to"]
+    },
+    {
+        "No.": 108,
+        "ppt No.": 42,
+        "填空题目": "They ______________ the business goals ______________ actionable tasks.",
+        "填空题目中文翻译": "他们将业务目标转化为可执行任务。",
+        "填空题目答案": ["translated", "into"]
+    },
+    {
+        "No.": 109,
+        "ppt No.": 43,
+        "填空题目": "I ______________ junior developers ______________ reviewing their code and providing constructive feedback.",
+        "填空题目中文翻译": "我通过审查初级开发者的代码并提供建设性反馈来指导他们。",
+        "填空题目答案": ["mentored", "by"]
+    },
+    {
+        "No.": 110,
+        "ppt No.": 43,
+        "填空题目": "She ______________ new team members ______________ help them get up to speed.",
+        "填空题目中文翻译": "她指导新团队成员帮助他们快速上手。",
+        "填空题目答案": ["mentored", "to"]
+    },
+    {
+        "No.": 111,
+        "ppt No.": 43,
+        "填空题目": "He ______________ feedback on the design ______________ improve usability.",
+        "填空题目中文翻译": "他就设计提供反馈以改进可用性。",
+        "填空题目答案": ["provided", "to"]
+    },
+    {
+        "No.": 112,
+        "ppt No.": 44,
+        "填空题目": "I ______________ in code reviews ______________ ensure code quality and share knowledge with the team.",
+        "填空题目中文翻译": "我参与代码审查，以确保代码质量并与团队分享知识。",
+        "填空题目答案": ["participated", "to"]
+    },
+    {
+        "No.": 113,
+        "ppt No.": 44,
+        "填空题目": "They ______________ in daily stand-ups ______________ track progress.",
+        "填空题目中文翻译": "他们参与每日站会以跟踪进展。",
+        "填空题目答案": ["participated", "to"]
+    },
+    {
+        "No.": 114,
+        "ppt No.": 44,
+        "填空题目": "She ______________ quality ______________ testing every feature thoroughly.",
+        "填空题目中文翻译": "她通过全面测试每个功能确保质量。",
+        "填空题目答案": ["ensured", "by"]
+    },
+    {
+        "No.": 115,
+        "ppt No.": 45,
+        "填空题目": "I ______________ technical concepts to non-technical stakeholders ______________ a clear and concise manner.",
+        "填空题目中文翻译": "我以清晰简洁的方式向非技术人员解释技术概念。",
+        "填空题目答案": ["communicated", "in"]
+    },
+    {
+        "No.": 116,
+        "ppt No.": 45,
+        "填空题目": "He ______________ the project status ______________ the management team.",
+        "填空题目中文翻译": "他向管理团队沟通项目状态。",
+        "填空题目答案": ["communicated", "to"]
+    },
+    {
+        "No.": 117,
+        "ppt No.": 45,
+        "填空题目": "She ______________ the technical details ______________ a way that everyone could understand.",
+        "填空题目中文翻译": "她以通俗易懂的方式解释技术细节。",
+        "填空题目答案": ["explained", "in"]
+    },
+    {
+        "No.": 118,
+        "ppt No.": 46,
+        "填空题目": "I'm ______________ about the opportunity ______________ work on diverse projects.",
+        "填空题目中文翻译": "我对参与各种不同项目的机会感到兴奋。",
+        "填空题目答案": ["excited", "to"]
+    },
+    {
+        "No.": 119,
+        "ppt No.": 46,
+        "填空题目": "She is ______________ about joining a dynamic and innovative team.",
+        "填空题目中文翻译": "她对加入充满活力的创新团队感到兴奋。",
+        "填空题目答案": "excited"
+    },
+    {
+        "No.": 120,
+        "ppt No.": 46,
+        "填空题目": "They are ______________ about the chance ______________ work on cutting-edge technology.",
+        "填空题目中文翻译": "他们对使用尖端技术的机会感到兴奋。",
+        "填空题目答案": ["excited", "to"]
+    },
+    {
+        "No.": 121,
+        "ppt No.": 47,
+        "填空题目": "I ______________ your team's commitment ______________ innovation and delivering value to clients.",
+        "填空题目中文翻译": "我钦佩贵团队对创新的执着以及为客户创造价值的精神。",
+        "填空题目答案": ["admire", "to"]
+    },
+    {
+        "No.": 122,
+        "ppt No.": 47,
+        "填空题目": "He ______________ the company's focus ______________ sustainability.",
+        "填空题目中文翻译": "他钦佩公司对可持续性的关注。",
+        "填空题目答案": ["admires", "on"]
+    },
+    {
+        "No.": 123,
+        "ppt No.": 47,
+        "填空题目": "They ______________ value ______________ providing high-quality solutions.",
+        "填空题目中文翻译": "他们通过提供高质量解决方案交付价值。",
+        "填空题目答案": ["deliver", "by"]
+    },
+    {
+        "No.": 124,
+        "ppt No.": 48,
+        "填空题目": "I'm ______________ for a role where I can ______________ my skills and ______________ to impactful projects.",
+        "填空题目中文翻译": "我正在寻找一个能让我提升技能并参与有影响力项目的职位。",
+        "填空题目答案": ["looking", "grow", "contribute"]
+    },
+    {
+        "No.": 125,
+        "ppt No.": 48,
+        "填空题目": "She is ______________ for a role that challenges her ______________ learn new technologies.",
+        "填空题目中文翻译": "她寻找能挑战她学习新技术的职位。",
+        "填空题目答案": ["looking", "to"]
+    },
+    {
+        "No.": 126,
+        "ppt No.": 48,
+        "填空题目": "They want ______________ contribute ______________ projects that make a difference.",
+        "填空题目中文翻译": "他们希望参与有意义的项目。",
+        "填空题目答案": ["to", "to"]
+    },
+    {
+        "No.": 127,
+        "ppt No.": 49,
+        "填空题目": "Can you tell me more ______________ the team I'll be working with?",
+        "填空题目中文翻译": "你能多给我讲讲我将加入的团队情况吗？",
+        "填空题目答案": "about"
+    },
+    {
+        "No.": 128,
+        "ppt No.": 49,
+        "填空题目": "Can you tell me ______________ the company's future projects?",
+        "填空题目中文翻译": "你能告诉我公司未来的项目吗？",
+        "填空题目答案": "about"
+    },
+    {
+        "No.": 129,
+        "ppt No.": 49,
+        "填空题目": "I'm excited ______________ work with a talented and collaborative team.",
+        "填空题目中文翻译": "我很兴奋能与才华横溢的团队合作。",
+        "填空题目答案": "to"
+    },
+    {
+        "No.": 130,
+        "ppt No.": 50,
+        "填空题目": "What are the biggest technical challenges your team is currently ______________?",
+        "填空题目中文翻译": "贵团队目前面临的最大技术挑战是什么？",
+        "填空题目答案": "facing"
+    },
+    {
+        "No.": 131,
+        "ppt No.": 50,
+        "填空题目": "What challenges do you expect ______________ the next phase of the project?",
+        "填空题目中文翻译": "你预期项目下一阶段有什么挑战？",
+        "填空题目答案": "in"
+    },
+    {
+        "No.": 132,
+        "ppt No.": 50,
+        "填空题目": "They are currently ______________ challenges related to scalability.",
+        "填空题目中文翻译": "他们目前面临可扩展性相关的挑战。",
+        "填空题目答案": "facing"
+    },
+    {
+        "No.": 133,
+        "ppt No.": 51,
+        "填空题目": "Thank you ______________ the opportunity to interview for this role.",
+        "填空题目中文翻译": "感谢您给我面试这个职位的机会。",
+        "填空题目答案": "for"
+    },
+    {
+        "No.": 134,
+        "ppt No.": 51,
+        "填空题目": "Thank you ______________ taking the time to meet with me today.",
+        "填空题目中文翻译": "感谢您今天抽时间与我见面。",
+        "填空题目答案": "for"
+    },
+    {
+        "No.": 135,
+        "ppt No.": 51,
+        "填空题目": "I appreciate the opportunity ______________ interview for this position.",
+        "填空题目中文翻译": "我很感激有机会面试这个职位。",
+        "填空题目答案": "to"
+    },
+    {
+        "No.": 136,
+        "ppt No.": 52,
+        "填空题目": "I'm ______________ about the possibility ______________ contributing to your team.",
+        "填空题目中文翻译": "我很期待能为贵团队贡献自己的力量。",
+        "填空题目答案": ["excited", "of"]
+    },
+    {
+        "No.": 137,
+        "ppt No.": 52,
+        "填空题目": "I'm ______________ about the chance ______________ work on innovative projects.",
+        "填空题目中文翻译": "我很兴奋有机会参与创新项目。",
+        "填空题目答案": ["excited", "to"]
+    },
+    {
+        "No.": 138,
+        "ppt No.": 52,
+        "填空题目": "They are ______________ to contribute ______________ the company's success.",
+        "填空题目中文翻译": "他们很兴奋能为公司成功做贡献。",
+        "填空题目答案": ["excited", "to"]
+    },
+    {
+        "No.": 139,
+        "ppt No.": 53,
+        "填空题目": "I look forward ______________ hearing from you!",
+        "填空题目中文翻译": "我期待您的回复！",
+        "填空题目答案": "to"
+    },
+    {
+        "No.": 140,
+        "ppt No.": 53,
+        "填空题目": "I look forward ______________ the next steps in the process.",
+        "填空题目中文翻译": "我期待流程的下一步。",
+        "填空题目答案": "to"
+    },
+    {
+        "No.": 141,
+        "ppt No.": 53,
+        "填空题目": "She looks forward ______________ hearing feedback from the team.",
+        "填空题目中文翻译": "她期待收到团队的反馈。",
+        "填空题目答案": "to"
+    }
+]

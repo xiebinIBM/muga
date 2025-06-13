@@ -1,0 +1,974 @@
+[
+  {
+    "No.": 1,
+    "ppt No.": 1,
+    "中文题目": "我精通 Java语言，并且有使用 Spring 等框架的经验。",
+    "中译英英语答案": "I am proficient in Java and have experience with frameworks like Spring."
+  },
+  {
+    "No.": 2,
+    "ppt No.": 1,
+    "中文题目": "精通",
+    "中译英英语答案": "be proficient in"
+  },
+  {
+    "No.": 3,
+    "ppt No.": 1,
+    "中文题目": "她精通Python，并有使用机器学习库(machine learning libraries)的经验。",
+    "中译英英语答案": "She is proficient in Python and has experience with machine learning libraries."
+  },
+  {
+    "No.": 4,
+    "ppt No.": 2,
+    "中文题目": "我在 JavaScript 以及 React 和 Angular 等前端框架方面有丰富的经验。",
+    "中译英英语答案": "I’ve worked extensively with JavaScript and frontend frameworks like React and Angular."
+  },
+  {
+    "No.": 5,
+    "ppt No.": 2,
+    "中文题目": "在……方面有丰富经验",
+    "中译英英语答案": "work extensively with"
+  },
+  {
+    "No.": 6,
+    "ppt No.": 2,
+    "中文题目": "他在数据库优化技术(database optimization techniques)方面有丰富经验。",
+    "中译英英语答案": "He has worked extensively with database optimization techniques."
+  },
+  {
+    "No.": 7,
+    "ppt No.": 3,
+    "中文题目": "我有使用 Node.js 和 Express 进行后端开发的经验。",
+    "中译英英语答案": "I have experience with backend development using Node.js and Express."
+  },
+  {
+    "No.": 8,
+    "ppt No.": 3,
+    "中文题目": "有……的经验",
+    "中译英英语答案": "have experience with"
+  },
+  {
+    "No.": 9,
+    "ppt No.": 3,
+    "中文题目": "他们有使用Flutter进行移动应用开发的经验。",
+    "中译英英语答案": "They have experience with mobile app development using Flutter."
+  },
+  {
+    "No.": 10,
+    "ppt No.": 4,
+    "中文题目": "我熟悉 MySQL、PostgreSQL 和 MongoDB 等数据库技术。",
+    "中译英英语答案": "I’m familiar with database technologies like MySQL, PostgreSQL, and MongoDB."
+  },
+  {
+    "No.": 11,
+    "ppt No.": 4,
+    "中文题目": "熟悉",
+    "中译英英语答案": "be familiar with"
+  },
+  {
+    "No.": 12,
+    "ppt No.": 4,
+    "中文题目": "她熟悉敏捷方法论(Agile methodologies)。",
+    "中译英英语答案": "She is familiar with Agile methodologies."
+  },
+  {
+    "No.": 13,
+    "ppt No.": 5,
+    "中文题目": "我曾使用过 AWS、Azure 和 谷歌云等云平台来部署应用程序。",
+    "中译英英语答案": "I’ve used cloud platforms like AWS, Azure, and Google Cloud for deploying applications."
+  },
+  {
+    "No.": 14,
+    "ppt No.": 5,
+    "中文题目": "用于",
+    "中译英英语答案": "use for"
+  },
+  {
+    "No.": 15,
+    "ppt No.": 5,
+    "中文题目": "他们使用Jenkins设置CI/CD流水线。",
+    "中译英英语答案": "They used Jenkins for setting up CI/CD pipelines."
+  },
+  {
+    "No.": 16,
+    "ppt No.": 6,
+    "中文题目": "我有使用 Docker 等容器化工具(containerization tools)和 Kubernetes 进行编排(orchestration)的实际操作经验。",
+    "中译英英语答案": "I have hands-on experience with containerization tools like Docker and orchestration with Kubernetes."
+  },
+  {
+    "No.": 17,
+    "ppt No.": 6,
+    "中文题目": "有……的实际经验",
+    "中译英英语答案": "have hands-on experience with"
+  },
+  {
+    "No.": 18,
+    "ppt No.": 6,
+    "中文题目": "他在DevOps工具方面有实际操作经验。",
+    "中译英英语答案": "He has hands-on experience with DevOps tools."
+  },
+  {
+    "No.": 19,
+    "ppt No.": 7,
+    "中文题目": "我曾使用过 AWS Lambda 或谷歌云函数等无服务器架构(serverless architectures)。",
+    "中译英英语答案": "I’ve worked with serverless architectures using AWS Lambda or Google Cloud Functions."
+  },
+  {
+    "No.": 20,
+    "ppt No.": 7,
+    "中文题目": "使用，与……合作",
+    "中译英英语答案": "work with"
+  },
+  {
+    "No.": 21,
+    "ppt No.": 7,
+    "中文题目": "她使用过微服务架构(microservices architectures)。",
+    "中译英英语答案": "She has worked with microservices architectures."
+  },
+  {
+    "No.": 22,
+    "ppt No.": 8,
+    "中文题目": "根据项目需求，我能自如地使用关系型数据库和 NoSQL 数据库。",
+    "中译英英语答案": "I’m comfortable working with both relational and NoSQL databases depending on project requirements."
+  },
+  {
+    "No.": 23,
+    "ppt No.": 8,
+    "中文题目": "对……感到自如",
+    "中译英英语答案": "be comfortable with"
+  },
+  {
+    "No.": 24,
+    "ppt No.": 8,
+    "中文题目": "他在快节奏环境中工作感到自如。",
+    "中译英英语答案": "He is comfortable working in fast-paced environments."
+  },
+  {
+    "No.": 25,
+    "ppt No.": 9,
+    "中文题目": "我曾用 Python 进行数据处理和机器学习项目。",
+    "中译英英语答案": "I’ve used Python for data processing and machine learning projects."
+  },
+  {
+    "No.": 26,
+    "ppt No.": 9,
+    "中文题目": "用于",
+    "中译英英语答案": "use for"
+  },
+  {
+    "No.": 27,
+    "ppt No.": 9,
+    "中文题目": "他们使用Python构建预测模型。",
+    "中译英英语答案": "They used Python for building predictive models."
+  },
+  {
+    "No.": 28,
+    "ppt No.": 10,
+    "中文题目": "我有使用 Flutter 或 React Native 进行移动应用开发的经验。",
+    "中译英英语答案": "I have experience with mobile app development using Flutter or React Native."
+  },
+  {
+    "No.": 29,
+    "ppt No.": 10,
+    "中文题目": "有……的经验",
+    "中译英英语答案": "have experience with"
+  },
+  {
+    "No.": 30,
+    "ppt No.": 10,
+    "中文题目": "她在跨平台开发(cross-platform development)方面有经验。",
+    "中译英英语答案": "She has experience with cross-platform development."
+  },
+  {
+    "No.": 31,
+    "ppt No.": 11,
+    "中文题目": "我使用 Git 进行版本控制，并遵循 Git Flow 等分支策略。",
+    "中译英英语答案": "I use Git for version control and follow branching strategies like Git Flow."
+  },
+  {
+    "No.": 32,
+    "ppt No.": 11,
+    "中文题目": "用于",
+    "中译英英语答案": "use for"
+  },
+  {
+    "No.": 33,
+    "ppt No.": 11,
+    "中文题目": "他使用Jira进行项目管理。",
+    "中译英英语答案": "He uses Jira for project management."
+  },
+  {
+    "No.": 34,
+    "ppt No.": 12,
+    "中文题目": "我熟悉使用 Jenkins、GitHub Actions 或 GitLab CI 等工具构建 CI/CD流水线。",
+    "中译英英语答案": "I’m familiar with CI/CD pipelines using tools like Jenkins, GitHub Actions, or GitLab CI."
+  },
+  {
+    "No.": 35,
+    "ppt No.": 12,
+    "中文题目": "熟悉",
+    "中译英英语答案": "be familiar with"
+  },
+  {
+    "No.": 36,
+    "ppt No.": 12,
+    "中文题目": "她熟悉使用Docker进行容器化(containerization)。",
+    "中译英英语答案": "She is familiar with Docker for containerization."
+  },
+  {
+    "No.": 37,
+    "ppt No.": 13,
+    "中文题目": "我使用 JUnit、pytest 或 Mocha 等框架编写单元测试和集成测试。",
+    "中译英英语答案": "I write unit tests and integration tests using frameworks like JUnit, pytest, or Mocha."
+  },
+  {
+    "No.": 38,
+    "ppt No.": 13,
+    "中文题目": "编写测试",
+    "中译英英语答案": "write tests"
+  },
+  {
+    "No.": 39,
+    "ppt No.": 13,
+    "中文题目": "他们为每个新功能编写文档。",
+    "中译英英语答案": "They write documentation for every new feature."
+  },
+  {
+    "No.": 40,
+    "ppt No.": 14,
+    "中文题目": "我遵循敏捷方法论，并参与每日站会(daily stand-ups)和迭代计划会(sprint planning)。",
+    "中译英英语答案": "I follow Agile methodologies and participate in daily stand-ups and sprint planning."
+  },
+  {
+    "No.": 41,
+    "ppt No.": 14,
+    "中文题目": "遵循方法论",
+    "中译英英语答案": "follow methodologies"
+  },
+  {
+    "No.": 42,
+    "ppt No.": 14,
+    "中文题目": "他定期参与代码审查。",
+    "中译英英语答案": "He participates in code reviews regularly."
+  },
+  {
+    "No.": 43,
+    "ppt No.": 15,
+    "中文题目": "我使用 IntelliJ IDEA、Visual Studio Code 或 Eclipse 等集成开发环境 进行开发。",
+    "中译英英语答案": "I use IDEs like IntelliJ IDEA, Visual Studio Code, or Eclipse for development."
+  },
+  {
+    "No.": 44,
+    "ppt No.": 15,
+    "中文题目": "用于",
+    "中译英英语答案": "use for"
+  },
+  {
+    "No.": 45,
+    "ppt No.": 15,
+    "中文题目": "她使用Postman测试API。",
+    "中译英英语答案": "She uses Postman for testing APIs."
+  },
+  {
+    "No.": 46,
+    "ppt No.": 16,
+    "中文题目": "我有使用 RESTful API的经验，并会设计和调用这些API。",
+    "中译英英语答案": "I’ve worked with RESTful APIs and have experience designing and consuming them."
+  },
+  {
+    "No.": 47,
+    "ppt No.": 16,
+    "中文题目": "使用，与……合作",
+    "中译英英语答案": "work with"
+  },
+  {
+    "No.": 48,
+    "ppt No.": 16,
+    "中文题目": "他使用GraphQL进行更灵活的数据查询。",
+    "中译英英语答案": "He has worked with GraphQL for more flexible data queries."
+  },
+  {
+    "No.": 49,
+    "ppt No.": 17,
+    "中文题目": "我曾使用 GraphQL 构建更灵活高效的 API。",
+    "中译英英语答案": "I’ve used GraphQL to build more flexible and efficient APIs."
+  },
+  {
+    "No.": 50,
+    "ppt No.": 17,
+    "中文题目": "用于",
+    "中译英英语答案": "use to"
+  },
+  {
+    "No.": 51,
+    "ppt No.": 17,
+    "中文题目": "他们使用Kafka进行实时数据流处理(real-time data streaming)。",
+    "中译英英语答案": "They used Kafka for real-time data streaming."
+  },
+  {
+    "No.": 52,
+    "ppt No.": 18,
+    "中文题目": "我擅长使用 Chrome 开发工具或 Postman 等工具调试应用程序。",
+    "中译英英语答案": "I’m experienced in debugging applications using tools like Chrome DevTools or Postman."
+  },
+  {
+    "No.": 53,
+    "ppt No.": 18,
+    "中文题目": "在……方面有经验",
+    "中译英英语答案": "be experienced in"
+  },
+  {
+    "No.": 54,
+    "ppt No.": 18,
+    "中文题目": "她在性能优化(performance optimization)方面有经验。",
+    "中译英英语答案": "She is experienced in performance optimization."
+  },
+  {
+    "No.": 55,
+    "ppt No.": 19,
+    "中文题目": "我遵循代码质量的最佳实践，编写的代码简洁、易维护且有文档注释。",
+    "中译英英语答案": "I follow best practices for code quality, such as writing clean, maintainable, and documented code."
+  },
+  {
+    "No.": 56,
+    "ppt No.": 19,
+    "中文题目": "遵循最佳实践",
+    "中译英英语答案": "follow best practices"
+  },
+  {
+    "No.": 57,
+    "ppt No.": 19,
+    "中文题目": "他们遵循安全最佳实践来保护用户数据。",
+    "中译英英语答案": "They follow security best practices to protect user data."
+  },
+  {
+    "No.": 58,
+    "ppt No.": 20,
+    "中文题目": "我使用 ELK Stack 或 Prometheus 等日志和监控工具来跟踪应用程序的性能。",
+    "中译英英语答案": "I use logging and monitoring tools like ELK Stack or Prometheus to track application performance."
+  },
+  {
+    "No.": 59,
+    "ppt No.": 20,
+    "中文题目": "用于",
+    "中译英英语答案": "use to"
+  },
+  {
+    "No.": 60,
+    "ppt No.": 20,
+    "中文题目": "他使用Grafana可视化系统指标(system metrics)。",
+    "中译英英语答案": "He uses Grafana for visualizing system metrics."
+  },
+  {
+      "No.": 61,
+      "ppt No.": 20,
+      "中文题目": "我使用 ELK Stack 或 Prometheus 等日志和监控工具来跟踪应用程序的性能。",
+      "中译英英语答案": "I use logging and monitoring tools like ELK Stack or Prometheus to track application performance."
+  },
+  {
+      "No.": 62,
+      "ppt No.": 20,
+      "中文题目": "用于",
+      "中译英英语答案": "use to"
+  },
+  {
+      "No.": 63,
+      "ppt No.": 20,
+      "中文题目": "他使用Grafana可视化系统指标(system metrics)。",
+      "中译英英语答案": "He uses Grafana for visualizing system metrics."
+  },
+  {
+      "No.": 64,
+      "ppt No.": 21,
+      "中文题目": "我开发过一款移动应用，将用户参与度(user engagement)提高了 30%。",
+      "中译英英语答案": "I developed a mobile app that improved user engagement by 30%."
+  },
+  {
+      "No.": 65,
+      "ppt No.": 21,
+      "中文题目": "开发应用程序",
+      "中译英英语答案": "develop an app"
+  },
+  {
+      "No.": 66,
+      "ppt No.": 21,
+      "中文题目": "他们开发了一个功能，将销售额提高了20%。",
+      "中译英英语答案": "They developed a feature that increased sales by 20%."
+  },
+  {
+      "No.": 67,
+      "ppt No.": 22,
+      "中文题目": "我构建过一个可扩展的后端系统，每秒可处理 10,000 个请求。",
+      "中译英英语答案": "I built a scalable backend system that handled 10,000 requests per second."
+  },
+  {
+      "No.": 68,
+      "ppt No.": 22,
+      "中文题目": "构建系统",
+      "中译英英语答案": "build a system"
+  },
+  {
+      "No.": 69,
+      "ppt No.": 22,
+      "中文题目": "他构建了一个显示实时数据(real-time data)的仪表盘。",
+      "中译英英语答案": "He built a dashboard that displayed real-time data."
+  },
+  {
+      "No.": 70,
+      "ppt No.": 23,
+      "中文题目": "我将支付网关(payment gateways)或社交媒体平台等第三方 API 集成了到我们的应用程序中。",
+      "中译英英语答案": "I integrated third-party APIs like payment gateways or social media platforms into our application."
+  },
+  {
+      "No.": 71,
+      "ppt No.": 23,
+      "中文题目": "集成 API",
+      "中译英英语答案": "integrate APIs"
+  },
+  {
+      "No.": 72,
+      "ppt No.": 23,
+      "中文题目": "他们集成了Google Maps API用于基于位置的服务(location-based services)。",
+      "中译英英语答案": "They integrated Google Maps API for location-based services."
+  },
+  {
+      "No.": 73,
+      "ppt No.": 24,
+      "中文题目": "我优化了数据库查询，将响应时间(response time)缩短了 50%。",
+      "中译英英语答案": "I optimized database queries, reducing response time by 50%."
+  },
+  {
+      "No.": 74,
+      "ppt No.": 24,
+      "中文题目": "优化查询",
+      "中译英英语答案": "optimize queries"
+  },
+  {
+      "No.": 75,
+      "ppt No.": 24,
+      "中文题目": "他优化代码以提升应用性能。",
+      "中译英英语答案": "He optimized the code to improve application performance."
+  },
+  {
+      "No.": 76,
+      "ppt No.": 25,
+      "中文题目": "我使用 Redis 实现了缓存(caching)，显著提升了应用程序的性能。",
+      "中译英英语答案": "I implemented caching using Redis, which improved application performance significantly."
+  },
+  {
+      "No.": 77,
+      "ppt No.": 25,
+      "中文题目": "实现缓存",
+      "中译英英语答案": "implement caching"
+  },
+  {
+      "No.": 78,
+      "ppt No.": 25,
+      "中文题目": "她实现缓存机制(caching mechanism)以减少服务器负载(server load)。",
+      "中译英英语答案": "She implemented a caching mechanism to reduce server load."
+  },
+  {
+      "No.": 79,
+      "ppt No.": 26,
+      "中文题目": "我将一个遗留系统(legacy system)迁移到现代技术栈(modern tech stack)，提高了系统的可维护性(maintainability)和可扩展性(scalability)。",
+      "中译英英语答案": "I migrated a legacy system to a modern tech stack, improving maintainability and scalability."
+  },
+  {
+      "No.": 80,
+      "ppt No.": 26,
+      "中文题目": "迁移系统",
+      "中译英英语答案": "migrate a system"
+  },
+  {
+      "No.": 81,
+      "ppt No.": 26,
+      "中文题目": "他们将应用迁移到云端以提高可扩展性。",
+      "中译英英语答案": "They migrated the application to the cloud for better scalability."
+  },
+  {
+      "No.": 82,
+      "ppt No.": 27,
+      "中文题目": "我为高流量应用程序(high-traffic application)设计并开发了微服务架构。",
+      "中译英英语答案": "I designed and developed a microservices architecture for a high-traffic application."
+  },
+  {
+      "No.": 83,
+      "ppt No.": 27,
+      "中文题目": "设计和开发",
+      "中译英英语答案": "design and develop"
+  },
+  {
+      "No.": 84,
+      "ppt No.": 27,
+      "中文题目": "他为新平台设计了一个可扩展的架构(scalable architecture)。",
+      "中译英英语答案": "He designed a scalable architecture for the new platform."
+  },
+  {
+      "No.": 85,
+      "ppt No.": 28,
+      "中文题目": "我开发了一款移动应用，首月下载量(downloads)达到 10 万次。",
+      "中译英英语答案": "I created a mobile app that achieved 100,000 downloads in the first month."
+  },
+  {
+      "No.": 86,
+      "ppt No.": 28,
+      "中文题目": "创建应用程序",
+      "中译英英语答案": "create an app"
+  },
+  {
+      "No.": 87,
+      "ppt No.": 28,
+      "中文题目": "她创建了一个功能，将用户留存率(user retention)提高了25%。",
+      "中译英英语答案": "She created a feature that boosted user retention by 25%."
+  },
+  {
+      "No.": 88,
+      "ppt No.": 29,
+      "中文题目": "我参与过使用 Kafka 或 RabbitMQ 进行实时数据处理(real-time data processing)的项目。",
+      "中译英英语答案": "I worked on a project that involved real-time data processing using Kafka or RabbitMQ."
+  },
+  {
+      "No.": 89,
+      "ppt No.": 29,
+      "中文题目": "参与项目",
+      "中译英英语答案": "work on a project"
+  },
+  {
+      "No.": 90,
+      "ppt No.": 29,
+      "中文题目": "他参与了一个需要高可用性(high availability)和容错性(fault tolerance)的项目。",
+      "中译英英语答案": "He worked on a project that required high availability and fault tolerance."
+  },
+  {
+      "No.": 91,
+      "ppt No.": 30,
+      "中文题目": "我开发了一个功能，允许用户安全地上传和共享文件。",
+      "中译英英语答案": "I developed a feature that allowed users to upload and share files securely."
+  },
+  {
+      "No.": 92,
+      "ppt No.": 30,
+      "中文题目": "开发功能",
+      "中译英英语答案": "develop a feature"
+  },
+  {
+      "No.": 93,
+      "ppt No.": 30,
+      "中文题目": "她开发了一个简化结账流程(checkout process)的功能。",
+      "中译英英语答案": "She developed a feature that simplified the checkout process."
+  },
+  {
+      "No.": 94,
+      "ppt No.": 31,
+      "中文题目": "我曾经通过分析堆转储文件(heap dumps)并优化代码，解决了一个内存泄漏问题(memory leak issue)。",
+      "中译英英语答案": "I once resolved a memory leak issue by analyzing heap dumps and optimizing code."
+  },
+  {
+      "No.": 95,
+      "ppt No.": 31,
+      "中文题目": "解决问题",
+      "中译英英语答案": "resolve an issue"
+  },
+  {
+      "No.": 96,
+      "ppt No.": 31,
+      "中文题目": "他通过查看日志(logs)修复了漏洞。",
+      "中译英英语答案": "He resolved the bug by reviewing the logs."
+  },
+  {
+      "No.": 97,
+      "ppt No.": 32,
+      "中文题目": "我通过回滚部署(rolling back deployment)并应用热修复程序(hotfix)，修复了一个生产环境中的关键漏洞。",
+      "中译英英语答案": "I fixed a critical bug in production by rolling back the deployment and applying a hotfix."
+  },
+  {
+      "No.": 98,
+      "ppt No.": 32,
+      "中文题目": "修复 bug",
+      "中译英英语答案": "fix a bug"
+  },
+  {
+      "No.": 99,
+      "ppt No.": 32,
+      "中文题目": "他们回滚更新以稳定系统。",
+      "中译英英语答案": "They rolled back the update to stabilize the system."
+  },
+  {
+      "No.": 100,
+      "ppt No.": 33,
+      "中文题目": "我通过实现 OAuth 2.0 进行用户身份验证(user authentication)，提高了应用程序的安全性。",
+      "中译英英语答案": "I improved application security by implementing OAuth 2.0 for user authentication."
+  },
+  {
+      "No.": 101,
+      "ppt No.": 33,
+      "中文题目": "他们通过加密敏感信息(sensitive information)提高数据安全。",
+      "中译英英语答案": "They improved data security by encrypting sensitive information."
+  },
+  {
+      "No.": 102,
+      "ppt No.": 33,
+      "中文题目": "他实现双因素认证(two-factor authentication)以增加保护。",
+      "中译英英语答案": "He implemented two-factor authentication for added protection."
+  },
+  {
+      "No.": 103,
+      "ppt No.": 34,
+      "中文题目": "我通过优化资源使用(resource usage)和实现自动扩展(auto-scaling)，降低了服务器成本。",
+      "中译英英语答案": "I reduced server costs by optimizing resource usage and implementing auto-scaling."
+  },
+  {
+      "No.": 104,
+      "ppt No.": 34,
+      "中文题目": "她通过迁移到云解决方案(cloud-based solution)降低了运营成本。",
+      "中译英英语答案": "She reduced operational costs by migrating to a cloud-based solution."
+  },
+  {
+      "No.": 105,
+      "ppt No.": 34,
+      "中文题目": "他们优化服务器使用(server usage)以有效处理高峰流量(peak traffic)。",
+      "中译英英语答案": "They optimized server usage to handle peak traffic efficiently."
+  },
+  {
+      "No.": 106,
+      "ppt No.": 35,
+      "中文题目": "我使用锁机制(locking mechanisms)和线程安全的数据结构(thread-safe data structures)解决了一个并发问题。",
+      "中译英英语答案": "I solved a concurrency issue by using locking mechanisms and thread-safe data structures."
+  },
+  {
+      "No.": 107,
+      "ppt No.": 35,
+      "中文题目": "他通过重新设计线程模型(threading model)解决了死锁问题(deadlock issue)。",
+      "中译英英语答案": "He solved the deadlock issue by redesigning the threading model."
+  },
+  {
+      "No.": 108,
+      "ppt No.": 35,
+      "中文题目": "他们使用线程安全队列(thread-safe queues)处理并发请求(concurrent requests)。",
+      "中译英英语答案": "They used thread-safe queues to handle concurrent requests."
+  },
+  {
+      "No.": 109,
+      "ppt No.": 36,
+      "中文题目": "我找出并修复了数据库层的瓶颈问题(bottleneck in the database layer)，提高了整体系统性能。",
+      "中译英英语答案": "I identified and fixed a bottleneck in the database layer, improving overall system performance."
+  },
+  {
+      "No.": 110,
+      "ppt No.": 36,
+      "中文题目": "她通过分析查询执行计划(query execution plans)识别出性能瓶颈。",
+      "中译英英语答案": "She identified the performance bottleneck by analyzing query execution plans."
+  },
+  {
+      "No.": 111,
+      "ppt No.": 36,
+      "中文题目": "他们通过优化数据库模式(database schema)提高了系统性能。",
+      "中译英英语答案": "They improved system performance by optimizing the database schema."
+  },
+  {
+      "No.": 112,
+      "ppt No.": 37,
+      "中文题目": "我为 API 调用实现了重试机制(retry mechanism)，以处理瞬时故障(transient failures)。",
+      "中译英英语答案": "I implemented a retry mechanism for API calls to handle transient failures."
+  },
+  {
+      "No.": 113,
+      "ppt No.": 37,
+      "中文题目": "他实现了回退机制(fallback mechanism)以确保系统可靠性(system reliability)。",
+      "中译英英语答案": "He implemented a fallback mechanism to ensure system reliability."
+  },
+  {
+      "No.": 114,
+      "ppt No.": 37,
+      "中文题目": "他们通过重试连接(retrying the connection)处理网络故障(network failures)。",
+      "中译英英语答案": "They handled network failures by retrying the connection."
+  },
+  {
+      "No.": 115,
+      "ppt No.": 38,
+      "中文题目": "我通过测试和调整 CSS 和 JavaScript，解决了跨浏览器兼容性问题(cross-browser compatibility issue)。",
+      "中译英英语答案": "I resolved a cross-browser compatibility issue by testing and adjusting CSS and JavaScript."
+  },
+  {
+      "No.": 116,
+      "ppt No.": 38,
+      "中文题目": "她通过更新CSS样式(CSS styles)解决了布局问题(layout issue)。",
+      "中译英英语答案": "She resolved the layout issue by updating the CSS styles."
+  },
+  {
+      "No.": 117,
+      "ppt No.": 38,
+      "中文题目": "他们在多个浏览器上测试应用以确保兼容性(ensure compatibility)。",
+      "中译英英语答案": "They tested the application on multiple browsers to ensure compatibility."
+  },
+  {
+      "No.": 118,
+      "ppt No.": 39,
+      "中文题目": "我通过代码优化(code optimization)和缓存机制(caching)，缩短了页面加载时间(page load time)，改善了用户体验。",
+      "中译英英语答案": "I improved the user experience by reducing page load time through code optimization and caching."
+  },
+  {
+      "No.": 119,
+      "ppt No.": 39,
+      "中文题目": "他通过优化后端(optimizing the backend)改善了应用的响应性(app's responsiveness)。",
+      "中译英英语答案": "He improved the app's responsiveness by optimizing the backend."
+  },
+  {
+      "No.": 120,
+      "ppt No.": 39,
+      "中文题目": "他们通过压缩资源(compressing assets)减少了页面加载时间。",
+      "中译英英语答案": "They reduced the page load time by compressing assets."
+  },
+  {
+      "No.": 121,
+      "ppt No.": 40,
+      "中文题目": "我通过使用负载均衡器(load balancers)进行水平扩展(scaling horizontally)，应对了高流量峰值(high-traffic spike)。",
+      "中译英英语答案": "I handled a high-traffic spike by scaling the application horizontally using load balancers."
+  },
+  {
+      "No.": 122,
+      "ppt No.": 40,
+      "中文题目": "她通过增加服务器(adding more servers)处理了突发的流量激增(sudden traffic surge)。",
+      "中译英英语答案": "She handled the sudden traffic surge by adding more servers."
+  },
+  {
+      "No.": 123,
+      "ppt No.": 40,
+      "中文题目": "他们扩展应用以支持数百万用户(support millions of users)。",
+      "中译英英语答案": "They scaled the application to support millions of users."
+  },
+  {
+      "No.": 124,
+      "ppt No.": 41,
+      "中文题目": "我与设计师和质量保证测试人员(QA testers)合作，交付了一个高质量的产品(high-quality product)。",
+      "中译英英语答案": "I collaborated with designers and QA testers to deliver a high-quality product."
+  },
+  {
+      "No.": 125,
+      "ppt No.": 41,
+      "中文题目": "她与营销团队(marketing team)合作推出新功能(new feature)。",
+      "中译英英语答案": "She collaborated with the marketing team to launch the new feature."
+  },
+  {
+      "No.": 126,
+      "ppt No.": 41,
+      "中文题目": "他们提前交付了项目(ahead of schedule)。",
+      "中译英英语答案": "They delivered the project ahead of schedule."
+  },
+  {
+      "No.": 127,
+      "ppt No.": 42,
+      "中文题目": "我与产品经理(product managers)密切合作，理解用户需求(user requirements)并将其转化为技术解决方案(technical solutions)。",
+      "中译英英语答案": "I worked closely with product managers to understand user requirements and translate them into technical solutions."
+  },
+  {
+      "No.": 128,
+      "ppt No.": 42,
+      "中文题目": "他与客户密切合作完善项目范围(project scope)。",
+      "中译英英语答案": "He worked closely with the client to refine the project scope."
+  },
+  {
+      "No.": 129,
+      "ppt No.": 42,
+      "中文题目": "他们将业务目标(business goals)转化为可执行任务(actionable tasks)。",
+      "中译英英语答案": "They translated the business goals into actionable tasks."
+  },
+  {
+      "No.": 130,
+      "ppt No.": 43,
+      "中文题目": "我通过审查初级开发者的代码(code review)并提供建设性反馈(constructive feedback)来指导他们。",
+      "中译英英语答案": "I mentored junior developers by reviewing their code and providing constructive feedback."
+  },
+  {
+      "No.": 131,
+      "ppt No.": 43,
+      "中文题目": "她指导新团队成员帮助他们快速上手(get up to speed)。",
+      "中译英英语答案": "She mentored new team members to help them get up to speed."
+  },
+  {
+      "No.": 132,
+      "ppt No.": 43,
+      "中文题目": "他就设计提供反馈以改进可用性(improve usability)。",
+      "中译英英语答案": "He provided feedback on the design to improve usability."
+  },
+  {
+      "No.": 133,
+      "ppt No.": 44,
+      "中文题目": "我参与代码审查(code reviews)，以确保代码质量(code quality)并与团队分享知识(share knowledge)。",
+      "中译英英语答案": "I participated in code reviews to ensure code quality and share knowledge with the team."
+  },
+  {
+      "No.": 134,
+      "ppt No.": 44,
+      "中文题目": "他们参与每日站会(daily stand-ups)以跟踪进展(track progress)。",
+      "中译英英语答案": "They participated in daily stand-ups to track progress."
+  },
+  {
+      "No.": 135,
+      "ppt No.": 44,
+      "中文题目": "她通过全面测试每个功能(testing every feature thoroughly)确保质量。",
+      "中译英英语答案": "She ensured quality by testing every feature thoroughly."
+  },
+  {
+      "No.": 136,
+      "ppt No.": 45,
+      "中文题目": "我以清晰简洁的方式(clear and concise manner)向非技术人员(non-technical stakeholders)解释技术概念(technical concepts)。",
+      "中译英英语答案": "I communicated technical concepts to non-technical stakeholders in a clear and concise manner."
+  },
+  {
+      "No.": 137,
+      "ppt No.": 45,
+      "中文题目": "他向管理团队(management team)沟通项目状态(project status)。",
+      "中译英英语答案": "He communicated the project status to the management team."
+  },
+  {
+      "No.": 138,
+      "ppt No.": 45,
+      "中文题目": "她以通俗易懂的方式(in a way that everyone could understand)解释技术细节(technical details)。",
+      "中译英英语答案": "She explained the technical details in a way that everyone could understand."
+  },
+  {
+      "No.": 139,
+      "ppt No.": 46,
+      "中文题目": "我对参与各种不同项目(diverse projects)的机会感到兴奋。",
+      "中译英英语答案": "I'm excited about the opportunity to work on diverse projects."
+  },
+  {
+      "No.": 140,
+      "ppt No.": 46,
+      "中文题目": "她对加入充满活力的创新团队(dynamic and innovative team)感到兴奋。",
+      "中译英英语答案": "She is excited about joining a dynamic and innovative team."
+  },
+  {
+      "No.": 141,
+      "ppt No.": 46,
+      "中文题目": "他们对使用尖端技术(cutting-edge technology)的机会感到兴奋。",
+      "中译英英语答案": "They are excited about the chance to work on cutting-edge technology."
+  },
+  {
+      "No.": 142,
+      "ppt No.": 47,
+      "中文题目": "我钦佩贵团队对创新的执着(commitment to innovation)以及为客户创造价值(delivering value to clients)的精神。",
+      "中译英英语答案": "I admire your team's commitment to innovation and delivering value to clients."
+  },
+  {
+      "No.": 143,
+      "ppt No.": 47,
+      "中文题目": "他钦佩公司对可持续性(sustainability)的关注。",
+      "中译英英语答案": "He admires the company's focus on sustainability."
+  },
+  {
+      "No.": 144,
+      "ppt No.": 47,
+      "中文题目": "他们通过提供高质量解决方案(high-quality solutions)交付价值。",
+      "中译英英语答案": "They deliver value by providing high-quality solutions."
+  },
+  {
+      "No.": 145,
+      "ppt No.": 48,
+      "中文题目": "我正在寻找一个能让我提升技能(grow my skills)并参与有影响力项目(impactful projects)的职位。",
+      "中译英英语答案": "I'm looking for a role where I can grow my skills and contribute to impactful projects."
+  },
+  {
+      "No.": 146,
+      "ppt No.": 48,
+      "中文题目": "她寻找能挑战她学习新技术(learn new technologies)的职位。",
+      "中译英英语答案": "She is looking for a role that challenges her to learn new technologies."
+  },
+  {
+      "No.": 147,
+      "ppt No.": 48,
+      "中文题目": "他们希望参与有意义的项目(projects that make a difference)。",
+      "中译英英语答案": "They want to contribute to projects that make a difference."
+  },
+  {
+      "No.": 148,
+      "ppt No.": 49,
+      "中文题目": "你能多给我讲讲我将加入的团队情况吗？",
+      "中译英英语答案": "Can you tell me more about the team I'll be working with?"
+  },
+  {
+      "No.": 149,
+      "ppt No.": 49,
+      "中文题目": "你能告诉我公司未来的项目吗？",
+      "中译英英语答案": "Can you tell me about the company's future projects?"
+  },
+  {
+      "No.": 150,
+      "ppt No.": 49,
+      "中文题目": "我很兴奋能与才华横溢的团队(talented and collaborative team)合作。",
+      "中译英英语答案": "I'm excited to work with a talented and collaborative team."
+  },
+  {
+      "No.": 151,
+      "ppt No.": 50,
+      "中文题目": "贵团队目前面临的最大技术挑战是什么？",
+      "中译英英语答案": "What are the biggest technical challenges your team is currently facing?"
+  },
+  {
+      "No.": 152,
+      "ppt No.": 50,
+      "中文题目": "你预期项目下一阶段有什么挑战？",
+      "中译英英语答案": "What challenges do you expect in the next phase of the project?"
+  },
+  {
+      "No.": 153,
+      "ppt No.": 50,
+      "中文题目": "他们目前面临可扩展性(scalability)相关的挑战。",
+      "中译英英语答案": "They are currently facing challenges related to scalability."
+  },
+  {
+      "No.": 154,
+      "ppt No.": 51,
+      "中文题目": "感谢您给我面试这个职位的机会。",
+      "中译英英语答案": "Thank you for the opportunity to interview for this role."
+  },
+  {
+      "No.": 155,
+      "ppt No.": 51,
+      "中文题目": "感谢您今天抽时间(taking the time)与我见面。",
+      "中译英英语答案": "Thank you for taking the time to meet with me today."
+  },
+  {
+      "No.": 156,
+      "ppt No.": 51,
+      "中文题目": "我很感激有机会面试这个职位。",
+      "中译英英语答案": "I appreciate the opportunity to interview for this position."
+  },
+  {
+      "No.": 157,
+      "ppt No.": 52,
+      "中文题目": "我很期待能为贵团队贡献自己的力量。",
+      "中译英英语答案": "I'm excited about the possibility of contributing to your team."
+  },
+  {
+      "No.": 158,
+      "ppt No.": 52,
+      "中文题目": "我很兴奋有机会参与创新项目(innovative projects)。",
+      "中译英英语答案": "I'm excited about the chance to work on innovative projects."
+  },
+  {
+      "No.": 159,
+      "ppt No.": 52,
+      "中文题目": "他们很兴奋能为公司成功做贡献。",
+      "中译英英语答案": "They are excited to contribute to the company's success."
+  },
+  {
+      "No.": 160,
+      "ppt No.": 53,
+      "中文题目": "我期待您的回复！",
+      "中译英英语答案": "I look forward to hearing from you!"
+  },
+  {
+      "No.": 161,
+      "ppt No.": 53,
+      "中文题目": "我期待流程的下一步(next steps in the process)。",
+      "中译英英语答案": "I look forward to the next steps in the process."
+  },
+  {
+      "No.": 162,
+      "ppt No.": 53,
+      "中文题目": "她期待收到团队的反馈(feedback from the team)。",
+      "中译英英语答案": "She looks forward to hearing feedback from the team."
+  }
+]    

@@ -1,0 +1,252 @@
+[
+    {
+      "No.": 1,
+      "ppt No.": 1,
+      "模拟面试问题": "Tell me about your strongest backend technology stack.请介绍一下你最擅长的后端技术栈。"
+    },
+    {
+      "No.": 2,
+      "ppt No.": 2,
+      "模拟面试问题": "What are the main front-end technologies and frameworks you have in-depth experience with?你对哪些主要的前端技术和框架有深入的了解和实践经验呢？"
+    },
+    {
+      "No.": 3,
+      "ppt No.": 3,
+      "模拟面试问题": "What is your experience with backend development?你在后端开发方面有什么经验？"
+    },
+    {
+      "No.": 4,
+      "ppt No.": 4,
+      "模拟面试问题": "What database technologies have you worked with?你使用过哪些数据库技术？"
+    },
+    {
+      "No.": 5,
+      "ppt No.": 5,
+      "模拟面试问题": "Have you used any cloud platforms for deploying applications?你有没有使用过任何云平台来部署应用程序？"
+    },
+    {
+      "No.": 6,
+      "ppt No.": 6,
+      "模拟面试问题": "Walk me through your experience with deploying and managing applications in production environments. Which tools and methodologies have you used?请详细说明你在生产环境中部署和管理应用程序的经验。你使用过哪些工具和方法论？"
+    },
+    {
+      "No.": 7,
+      "ppt No.": 7,
+      "模拟面试问题": "What types of serverless platforms have you used in production?你在实际生产中使用过哪些无服务器平台？"
+    },
+    {
+      "No.": 8,
+      "ppt No.": 8,
+      "模拟面试问题": "How do you decide between relational and NoSQL databases for a project?对于一个项目，你如何在关系型数据库和非关系型数据库之间做出选择？"
+    },
+    {
+      "No.": 9,
+      "ppt No.": 9,
+      "模拟面试问题": "Could you share a specific example of how you applied Python？你能分享一个你具体是如何应用 Python 的例子吗？"
+    },
+    {
+      "No.": 10,
+      "ppt No.": 10,
+      "模拟面试问题": "What technologies and frameworks did you utilize when working on mobile app development projects?在参与移动应用开发项目时，你使用了哪些技术和框架呢？"
+    },
+    {
+      "No.": 11,
+      "ppt No.": 11,
+      "模拟面试问题": "When dealing with version control in software development, what strategies do you follow to organize your work?在软件开发中进行版本控制时，你会遵循哪些策略来组织你的工作？"
+    },
+    {
+      "No.": 12,
+      "ppt No.": 12,
+      "模拟面试问题": "What tools do you typically use to set up CI/CD pipelines in your projects?在你的项目中，你通常使用哪些工具来设置持续集成 / 持续交付（CI/CD）工作流呢？"
+    },
+    {
+      "No.": 13,
+      "ppt No.": 13,
+      "模拟面试问题": "Which testing frameworks do you usually use when writing unit tests and integration tests in your projects?在你的项目中编写单元测试和集成测试时，你通常会使用哪些测试框架？"
+    },
+    {
+      "No.": 14,
+      "ppt No.": 14,
+      "模拟面试问题": "What methods do you use for Agile project, and what are the key activities you take part in during the project process?你使用哪些方法来进行敏捷项目，并且在项目过程中你参与的关键活动有哪些？"
+    },
+    {
+      "No.": 15,
+      "ppt No.": 15,
+      "模拟面试问题": "Which integrated development environments (IDEs) do you commonly use for your development work?你在开发工作中通常会使用哪些集成开发环境（IDE）呢？"
+    },
+    {
+      "No.": 16,
+      "ppt No.": 16,
+      "模拟面试问题": "What types of APIs have you worked with in your projects?你曾使用过哪些类型的应用程序编程接口（API）？"
+    },
+    {
+      "No.": 17,
+      "ppt No.": 17,
+      "模拟面试问题": "What technologies have you used to build APIs?你在构建应用程序编程接口（API）时使用过哪些技术？"
+    },
+    {
+      "No.": 18,
+      "ppt No.": 18,
+      "模拟面试问题": "What tools did you use when debugging applications?你在调试应用程序时会使用哪些工具？"
+    },
+    {
+      "No.": 19,
+      "ppt No.": 19,
+      "模拟面试问题": "What practices do you follow to ensure high - quality code in your development work?在你的开发工作中，你遵循哪些实践来确保代码的高质量？"
+    },
+    {
+      "No.": 20,
+      "ppt No.": 20,
+      "模拟面试问题": "What tools did you use to monitor and track the performance of applications in your work?在你的工作中，你会使用哪些工具来监控和跟踪应用程序的性能？"
+    },
+    {
+      "No.": 21,
+      "ppt No.": 21,
+      "模拟面试问题": "Could you tell me about a time when you developed an application and what the impact on user engagement was?你能给我讲一讲你开发某个应用程序的经历，以及该应用程序对用户参与度产生了怎样的影响吗？"
+    },
+    {
+      "No.": 22,
+      "ppt No.": 22,
+      "模拟面试问题": "Could you share an instance where you built a backend infrastructure?你能分享一个你构建后端基础设施的例子吗？"
+    },
+    {
+      "No.": 23,
+      "ppt No.": 23,
+      "模拟面试问题": "What kinds of third-party APIs have you integrated into applications?你在应用程序中集成过哪些类型的第三方应用程序编程接口（API）呢？"
+    },
+    {
+      "No.": 24,
+      "ppt No.": 24,
+      "模拟面试问题": "Can you share an experience of optimizing database queries?你能分享一次优化数据库查询的经历吗？"
+    },
+    {
+      "No.": 25,
+      "ppt No.": 25,
+      "模拟面试问题": "Can you share an instance where you applied caching to an application?你能分享一个在应用程序中应用缓存的实例吗？"
+    },
+    {
+      "No.": 26,
+      "ppt No.": 26,
+      "模拟面试问题": "Have you ever been involved in migrating a legacy system?你有没有参与过遗留系统的迁移工作？"
+    },
+    {
+      "No.": 27,
+      "ppt No.": 27,
+      "模拟面试问题": "Have you ever worked on a high - traffic application?你曾经处理过一个高流量的应用程序吗？"
+    },
+    {
+      "No.": 28,
+      "ppt No.": 28,
+      "模拟面试问题": "Could you tell me about a time when you created a mobile app?你能跟我讲讲你开发一款移动应用的经历吗？"
+    },
+    {
+      "No.": 29,
+      "ppt No.": 29,
+      "模拟面试问题": "Could you share an instance where you worked on a project with real-time data processing needs?你能分享一个你参与过的有实时数据处理需求的项目实例吗？"
+    },
+    {
+      "No.": 30,
+      "ppt No.": 30,
+      "模拟面试问题": "Can you talk about a feature you created in an application?你能谈谈你在一个应用程序中创建的一项功能吗？"
+    },
+    {
+      "No.": 31,
+      "ppt No.": 31,
+      "模拟面试问题": "Have you ever encountered a memory leak issue in your projects?你在项目中是否遇到过内存泄漏问题？"
+    },
+    {
+      "No.": 32,
+      "ppt No.": 32,
+      "模拟面试问题": "Have you ever faced a critical bug in a production environment?你曾经在生产环境中遇到过严重的漏洞（错误）吗？"
+    },
+    {
+      "No.": 33,
+      "ppt No.": 33,
+      "模拟面试问题": "Have you taken any measures to enhance application security in your projects?你在项目中采取过哪些措施来增强应用程序的安全性？"
+    },
+    {
+      "No.": 34,
+      "ppt No.": 34,
+      "模拟面试问题": "Can you share an experience where you managed to lower server expenses? 分享一次你成功降低服务器费用的经历"
+    },
+    {
+      "No.": 35,
+      "ppt No.": 35,
+      "模拟面试问题": "Have you ever faced a concurrency problem in your development work? 你在开发工作中遇到过并发问题吗？"
+    },
+    {
+      "No.": 36,
+      "ppt No.": 36,
+      "模拟面试问题": "Have you ever found and resolved a bottleneck in a system? 你曾经在一个系统中发现并解决过瓶颈问题吗？"
+    },
+    {
+      "No.": 37,
+      "ppt No.": 37,
+      "模拟面试问题": "Can you share an experience where you dealt with the problem of transient API call failures? 你能分享一次你处理过的临时性 API 调用失败问题的经历吗？"
+    },
+    {
+      "No.": 38,
+      "ppt No.": 38,
+      "模拟面试问题": "Can you share an experience of dealing with cross-browser issues? 你能分享一次处理跨浏览器问题的经历吗?"
+    },
+    {
+      "No.": 39,
+      "ppt No.": 39,
+      "模拟面试问题": "How did you enhance the user experience in a project? 你在一个项目中是如何提升用户体验的呢？"
+    },
+    {
+      "No.": 40,
+      "ppt No.": 40,
+      "模拟面试问题": "How did you deal with a sudden increase in traffic for an application? 你是如何应对一个应用程序流量突然增加的情况的呢？"
+    },
+    {
+      "No.": 41,
+      "ppt No.": 41,
+      "模拟面试问题": "Can you share an experience of delivering a high-quality product? 你能分享一次交付高质量产品的经历吗？"
+    },
+    {
+      "No.": 42,
+      "ppt No.": 42,
+      "模拟面试问题": "Can you talk about a situation where you had to collaborate with product managers? 能讲一个你与产品经理合作的情况吗？"
+    },
+    {
+      "No.": 43,
+      "ppt No.": 43,
+      "模拟面试问题": "Can you share an experience of mentoring junior developers？ 能分享一次指导初级开发人员的经历吗？"
+    },
+    {
+      "No.": 44,
+      "ppt No.": 44,
+      "模拟面试问题": "What was your role in code reviews？ 你在代码审查中担任了什么样的角色呢？"
+    },
+    {
+      "No.": 45,
+      "ppt No.": 45,
+      "模拟面试问题": "Can you share an experience of communicating tech concepts to non-tech stakeholders? 你能分享一次向非技术利益相关者传达技术概念的经历吗？"
+    },
+    {
+      "No.": 46,
+      "ppt No.": 46,
+      "模拟面试问题": "How do you think about working on diverse projects? 你对参与不同类型的项目有什么看法？"
+    },
+    {
+      "No.": 47,
+      "ppt No.": 47,
+      "模拟面试问题": "What do you think about the innovation? 你对创新有什么看法呢？"
+    },
+    {
+      "No.": 48,
+      "ppt No.": 48,
+      "模拟面试问题": "What specific elements in a role are you seeking to? 你在一个职位中具体在寻求哪些方面的东西呢？"
+    },
+    {
+      "No.": 49,
+      "ppt No.": 49,
+      "模拟面试问题": "Do you have any questions? 有什么问题你想了解的？"
+    },
+    {
+      "No.": 50,
+      "ppt No.": 50,
+      "模拟面试问题": "Do you have any questions? 有什么问题你想了解的？"
+    }
+  ]
