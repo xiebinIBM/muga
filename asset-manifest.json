@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/xiebinIBM/muga/static/css/main.9097b91f.css",
-    "main.js": "/xiebinIBM/muga/static/js/main.e320fe2e.js",
-    "index.html": "/xiebinIBM/muga/index.html",
-    "main.9097b91f.css.map": "/xiebinIBM/muga/static/css/main.9097b91f.css.map",
-    "main.e320fe2e.js.map": "/xiebinIBM/muga/static/js/main.e320fe2e.js.map"
+    "main.css": "/muga/static/css/main.9097b91f.css",
+    "main.js": "/muga/static/js/main.e320fe2e.js",
+    "index.html": "/muga/index.html",
+    "main.9097b91f.css.map": "/muga/static/css/main.9097b91f.css.map",
+    "main.e320fe2e.js.map": "/muga/static/js/main.e320fe2e.js.map"
   },
   "entrypoints": [
     "static/css/main.9097b91f.css",
