@@ -9,7 +9,7 @@ import NezhayingyuConfirm from './components/NezhayingyuConfirm';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/muga">
       <div className="app">
         <Routes>
           <Route path="/" element={<Menu />} />
